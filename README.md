@@ -8,4 +8,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I’m currently learning backend development using **Golang** and how to construct a distributed system.
 - 👯 I’m looking for a backend development internship.
 - 📫 How to reach me: [qq-mail](mailto:cold-bin@qq.com).
-- 🖋 Writer at [blog](https://blog.colbin.top/).
+- 🖋 Writer at [blog](https://blog.coldbin.top/).
