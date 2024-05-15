@@ -4,8 +4,6 @@
 
 I'm a computer science student who is passionate about writing code, solving problems and building software.
 
-- 🔭 I’m currently a CS student at cqupt.
-- 📚 I’m currently learning backend development using **Golang** and how to construct a distributed system.
-- 👯 I’m looking for a backend development internship.
+- 📚 I’m currently do backend development using **Golang** and constructing a distributed system.
 - 📫 How to reach me: [qq-mail](mailto:cold-bin@qq.com).
 - 🖋 Writer at [blog](https://blog.coldbin.top/).
